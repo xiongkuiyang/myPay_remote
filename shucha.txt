@@ -4,7 +4,7 @@ edit by master branch [edit by hot_fix]
 edit by master branch
 edit by master branch [edit by master]
 edit by master branch
-edit by master branch
+edit by master branch [edit by hot_fix for confict]
 edit by master branch
 edit by master branch
 edit by master branch
